@@ -1,0 +1,25 @@
+{
+  "name": "text-marker-js",
+  "version": "1.0.0",
+  "description": "Given the following html:",
+  "main": "text-marker.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gn1sistemas/text-marker-js.git"
+  },
+  "author": "Daniel Marcoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gn1sistemas/text-marker-js/issues"
+  },
+  "homepage": "https://github.com/gn1sistemas/text-marker-js#readme",
+  "devDependencies": {
+    "mark.js": "^8.11.1"
+  }
+}

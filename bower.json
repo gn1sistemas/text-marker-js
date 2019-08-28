@@ -1,0 +1,17 @@
+{
+  "name": "text-marker-js",
+  "authors": [
+    "Daniel Marcoto <daniel@gn1.com.br>"
+  ],
+  "description": "search for a two input texts in html and highlight all the piece",
+  "main": "text-mark.js",
+  "keywords": [
+    "mark"
+  ],
+  "ignore": [    
+    "tests/",
+    "node_modules/"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.gn1.com.br"
+}
